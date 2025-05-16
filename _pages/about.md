@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year Ph.D. student in Mechanical Engineering at Michigan State University. My research brings together data-driven set-based methods (ellipsoids, zonotopes) and prior system knowledge to design safe, robust, and optimal control strategies for autonomous and robotic systems. I work on:
+I’m a **third-year Ph.D. student** in **Mechanical Engineering** at **Michigan State University**. My research brings together data-driven set-based methods (ellipsoids, zonotopes) and prior system knowledge to design safe, robust, and optimal control strategies for autonomous and robotic systems. I work on:
 
 - **Model Predictive Control**   
 - **Perception-based Observers** 
